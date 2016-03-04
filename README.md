@@ -14,4 +14,4 @@ I used PHP, and CSS and HTML for the layout and structure of the GUI.
 
 You can check it out here:
 
-http://ec2-54-76-148-100.eu-west-1.compute.amazonaws.com/
+http://metareaper.herokuapp.com/
